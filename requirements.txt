@@ -1,0 +1,11 @@
+pip install openmeteo-requests
+pip install pandas
+pip install requests
+pip install cachecontrol
+pip install requests_cache
+pip install retry_requests
+pip install tensorflow
+pip install keras
+pip install scikit-learn
+pip install matplotlib
+pip install numpy
