@@ -231,7 +231,7 @@ weather-agent/
 ├── notebooks/
 │   └── WCA_by_Nimra.ipynb
 ├── data/
-│   ├── raw/
+│   ├──  Use API/
 │   └── processed/
 ├── models/
 │   ├── regression_model.h5
